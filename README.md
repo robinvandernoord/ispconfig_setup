@@ -20,6 +20,7 @@ Tested on:
 - Ubuntu 14.04 Trusty ([Servisys VPS](https://www.servisys.it/), VmWare Esxi, Amazon AWS, Virtualbox, OVH VPS, Hetzner, Digital Ocean)
 - Ubuntu 15.10 Willy ([Servisys VPS](https://www.servisys.it/), VmWare Esxi, Amazon AWS, Virtualbox, OVH VPS, Hetzner, Digital Ocean)
 - Ubuntu 16.04 Xenial Xerus ( [Servisys VPS](https://www.servisys.it/), VmWare Esxi, Amazon AWS, Virtualbox, OVH VPS, Hetzner, Digital Ocean)
+- Ubuntu 18.04 Bionic Beaver (Virtualbox)
 - Centos 7 ([Servisys VPS](https://www.servisys.it/), Vitualbox)
 - ISPConfig 3.*
 
@@ -38,9 +39,10 @@ Before start be sure to configure your server following the following guides:
 - Debian 9: https://www.howtoforge.com/tutorial/debian-minimal-server/
 - Debian 8: https://www.howtoforge.com/tutorial/debian-8-jessie-minimal-server/
 - Debian 7: https://www.howtoforge.com/perfect-server-debian-wheezy-apache2-bind-dovecot-ispconfig-3
-- Ubuntu 14.10: https://www.howtoforge.com/tutorial/ubuntu-minimal-server-install/
-- Ubuntu 15.10: https://www.howtoforge.com/tutorial/ubuntu-minimal-server-install/
-- Ubuntu 16.04: https://www.howtoforge.com/tutorial/ubuntu-minimal-server-install/
+- Ubuntu 14.10: https://www.howtoforge.com/tutorial/ubuntu-14.10-utopic-unicorn-server
+- Ubuntu 15.10: https://www.howtoforge.com/tutorial/ubuntu-15.10-wily-werewolf-minimal-server/
+- Ubuntu 16.04: https://www.howtoforge.com/tutorial/ubuntu-16.04-xenial-xerus-minimal-server/
+- Ubuntu 18.04: https://www.howtoforge.com/tutorial/ubuntu-18.04-bionic-beaver-minimal-server/
 - Centos 7: http://www.howtoforge.com/centos-7-server
 
 You can Choose during install:
